@@ -61,9 +61,9 @@ INSERT INTO planos
 	(plano, valor_plano)
 VALUES
 	('gratuito', 0),
-    ('pessoal', 7.99),
-    ('familar', 5.99),
-    ('universitario', 6.99);
+    ('pessoal', 6.99),
+    ('familar', 7.99),
+    ('universitario', 5.99);
     
 INSERT INTO usuarios
 	(usuario, idade, plano_id, data_assinatura)
