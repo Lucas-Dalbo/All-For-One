@@ -1,5 +1,5 @@
 
-[Leia em Portugês!](./README.md)
+[Leia em Português!](./README.md)
 
 # SQL One For All Project
 This project was developed while a student at Trybe, in the Back-End module.
